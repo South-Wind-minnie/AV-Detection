@@ -38,7 +38,6 @@ av_dict = {
     "LenovoPcManager.exe": "联想电脑管家",
     "LenovoTray.exe": "联想电脑管家防护中心",
     "MSPCManager.exe": "微软电脑管家-公测版",
-    "msedgewebview2.exe": "微软电脑管家-公测版",
 	"360tray.exe": "360安全卫士-实时保护",
 	"360safe.exe": "360安全卫士-主程序",
 	"ZhuDongFangYu.exe": "360安全卫士-主动防御",
